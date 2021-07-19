@@ -1,0 +1,19 @@
+body {
+  background-color: aqua;
+}
+
+.all {
+  margin-top: 200px;
+  text-align: center;
+}
+
+.txt {
+  font-weight: bold;
+  color:darkmagenta;
+  /* background-image: url("./download.jpg"); */
+}
+
+.pp{
+  height: 400px;
+  
+}
